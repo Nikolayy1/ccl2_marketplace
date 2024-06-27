@@ -1,7 +1,8 @@
 # How to run:
 -> clone: git clone https://github.com/Nikolayy1/ccl2_marketplace.git \
+-> go into marketplace folder \
 -> npm install \
--> npm run dev \
+-> npm run dev 
 
 
 # Database:
@@ -13,6 +14,7 @@
         DB_DATABASE="dbname" \
         DB_USERNAME="dbusername" \
         DB_PASSWORD="password" \
+        \
 -> setup a database with tables: \
 `users` ( \
   `userId` int NOT NULL, \
@@ -41,4 +43,4 @@
   `productId` int NOT NULL, \
   `date` date NOT NULL \
   ) \
- \
+ 
