@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #f1f5f9;
+  color: #37383C;
+}
+
+.customOrange {
+  background-color: #FC440F;
+}
+
+.navbar a {
+  margin: 0.25rem;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  color: #FC440F !important;
+}
