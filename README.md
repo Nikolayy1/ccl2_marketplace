@@ -1,7 +1,7 @@
 # How to run:
--> clone: git clone https://github.com/Nikolayy1/ccl2_marketplace.git__
--> npm install__
--> npm run dev__
+-> clone: git clone https://github.com/Nikolayy1/ccl2_marketplace.git\
+-> npm install\
+-> npm run dev
 
 
 # Database:
